@@ -38,10 +38,6 @@ A passionate Programmer from Nepal
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=anujkattel"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=anujkattel&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujkattel&layout=compact"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=anujkattel&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
